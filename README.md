@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=kasheemlew&show_icons=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasheemlew&layout=compact"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=kasheemlew&show_icons=true"/> <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasheemlew&layout=compact"/>
