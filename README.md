@@ -5,7 +5,4 @@
   <th>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsonglew&layout=compact&theme=dark">
   </th>
-  <th>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsonglew&theme=dark">
-  </th>
 </table>
